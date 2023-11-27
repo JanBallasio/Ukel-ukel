@@ -1,0 +1,38 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #101315;
+}
+
+.backdrop {
+  position: fixed; /* Change from 'absolute' to 'fixed' */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #000000e1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  position: relative; /* Change from 'static' to 'relative' */
+  width: clamp(50%, 700px, 90%);
+  height: min(50%, 300px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 1.5rem;
+  font-size: 1.2rem;
+  border-radius: 1rem;
+  background-color: #FF9300;
+  margin: 0 auto; /* Center horizontally */
+}
+.modal .img {
+  width: 10px;
+}

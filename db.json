@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "asdasdasdas Bauch",
+      "username": "Samantha",
+      "email": "samantha@ayhoo.com",
+      "phone": "+639239123812",
+      "website": "aaa.net",
+      "date": "02/05/2023"
+    },
+    {
+      "id": 2,
+      "name": "khjjkhjkhjkhj Bauch",
+      "username": "Samantha",
+      "email": "samantha@ayhoo.com",
+      "phone": "+639239123812",
+      "website": "aaa.net",
+      "date": "02/05/2023"
+    },
+    {
+      "id": 3,
+      "name": "reterterterter Bauch",
+      "username": "Samantha",
+      "email": "samantha@ayhoo.com",
+      "phone": "+639239123812",
+      "website": "aaa.net",
+      "date": "02/09/2023"
+    },
+    {
+      "id": 4,
+      "name": "nmbmbnmbnmbn Bauch",
+      "username": "Samantha",
+      "email": "samantha@ayhoo.com",
+      "phone": "+639239123812",
+      "website": "aaa.net",
+      "date": "02/08/2023"
+    },
+    {
+      "name": "JAN",
+      "email": "tukmol6278@gmail.com",
+      "phone": "",
+      "id": 5,
+      "date": "02/05/2023"
+    },
+    {
+      "name": "JAN",
+      "email": "tukmol6278@gmail.com",
+      "phone": "09393491226",
+      "id": 6,
+      "date": "02/07/2023"
+    },
+    {
+      "name": "JAN",
+      "email": "tukmol6278@gmail.com",
+      "phone": "09393491226",
+      "id": 7,
+      "date": "02/06/2023"
+    },
+    {
+      "name": "JAN",
+      "email": "tukmol6278@gmail.com",
+      "phone": "09393491226",
+      "id": 8
+    }
+  ]
+}

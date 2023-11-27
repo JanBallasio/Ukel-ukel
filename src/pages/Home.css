@@ -1,0 +1,25 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+.pdf-logo {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 100px; /* Adjust the width as needed */
+  height: auto;
+}
+.hidden {
+  display: none;
+}
+
+@media print {
+  .pdf-logo {
+    display: block; /* Show when printing */
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 100px; /* Adjust the width as needed */
+    height: auto;
+  }
+}
+.date {
+  width: 200px;
+}
